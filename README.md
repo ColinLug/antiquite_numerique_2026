@@ -5,4 +5,4 @@ Instructions pour l'ouverture de l'exposition
 ## Documentation
 /sûrement des liens vers nos journaux de bord/
 ## Contexte de développement
-Ce projet a été conçu par Lisa Solis, Julie Vandermensbrugghe, Pedro Dias Abilio Teixeira et Colin Luginbühl dans le cadre du cours _Antiquité et numérique_ (SA26, UNIL) et encadré par Prof. Nadia Spang-Bovey et Prof. Patrick Michel.
+Ce projet a été conçu par Lisa Solis, Julie Vandermensbrugghe, Pedro Abilio et Colin Luginbühl dans le cadre du cours _Antiquité et numérique_ (SA26, UNIL) et encadré par Prof. Nadia Spang-Bovey et Prof. Patrick Michel.
